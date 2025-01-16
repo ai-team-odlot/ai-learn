@@ -1,1 +1,3 @@
 .idea
+.ai-learn_venv
+*.pth
